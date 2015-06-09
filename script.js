@@ -1,6 +1,5 @@
 
 
-
 function HeatMap(data, options) {
 	var _this = this;
 	this.data = data;
